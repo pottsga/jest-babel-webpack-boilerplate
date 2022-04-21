@@ -1,0 +1,7 @@
+$my-color: dodgerblue;
+
+@import url(./another.scss);
+
+body {
+    color: $my-color;
+}
